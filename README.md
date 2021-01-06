@@ -1,4 +1,4 @@
-Backend [Serverless Stack](https://serverless-stack.com) tutorial done, this repo corresponds to the Basics part.
+Backend [Serverless Stack](https://serverless-stack.com) tutorial done, this repo corresponds to the Basics part. 
 
 The backend consists of:
 * Infrastructure: deploys S3, DynamoDB & Cognito, it's a [AWS CDK](https://aws.amazon.com/cdk) project with [SST](https://github.com/serverless-stack/serverless-stack) for deployment.
